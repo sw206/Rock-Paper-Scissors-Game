@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-Game
-Essentially if user vs computer in a game of rock,paper,scissors
+Essentially its user vs computer in a game of rock,paper,scissors
